@@ -4,7 +4,7 @@ import Right2 from "./hedr";
 
 function Left() {
 	return (
-		<div className=" dark:bg-black w-[100%]">
+		<div className=" dark:text-white dark:bg-red-500  w-[100%] p-3">
 			<Right2 />
 
 		</div>
