@@ -1,14 +1,14 @@
 import React from "react";
-import Appkichik from "./components/index";
+import Right2 from "./hedr";
 
 
-function App() {
+function Left() {
 	return (
 		<div className=" dark:bg-black w-[100%]">
-			<Appkichik />
+			<Right2 />
 
 		</div>
 	);
 }
 
-export default App;
+export default Left;

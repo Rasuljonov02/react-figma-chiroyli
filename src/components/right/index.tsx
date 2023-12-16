@@ -1,14 +1,14 @@
 import React from "react";
-import Appkichik from "./components/index";
+import Rightt from "./rig";
 
 
-function App() {
+function Right1() {
 	return (
 		<div className=" dark:bg-black w-[100%]">
-			<Appkichik />
+			<Rightt />
 
 		</div>
 	);
 }
 
-export default App;
+export default Right1;
