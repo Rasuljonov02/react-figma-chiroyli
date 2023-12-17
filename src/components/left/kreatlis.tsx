@@ -88,8 +88,8 @@ function CreatList() {
 				</span>
 			</div>
 
-			<div className="p-3 mt-3 flex flex-col gap-3 dark:text-white ">
-      <span className="flex items-center p-2 border-b-2">
+			<div className="p-3 mt-3 flex flex-col gap-3  dark:text-white ">
+      <span className="flex items-center p-2 border-b-2 hover:bg-gray-200 dark:hover:bg-gray-600">
 				<input className="w-[50px]" type="checkbox" />
 				<h3 className="w-[100px]">#CM9801</h3>
 
@@ -118,7 +118,7 @@ function CreatList() {
 				<h3 className="w-[210px] text-blue-600">In Progress</h3>
 			</span>
 
-      <span className="flex items-center p-2  border-b-2">
+      <span className="flex items-center p-2  border-b-2 hover:bg-gray-200 dark:hover:bg-gray-600">
 				<input className="w-[50px]" type="checkbox" />
 				<h3 className="w-[100px]">#CM9802</h3>
 
@@ -147,7 +147,7 @@ function CreatList() {
 				<h3 className="w-[200px] text-blue-400">In Progress</h3>
 			</span>
 
-      <span className="flex items-center p-2  border-b-2">
+      <span className="flex items-center p-2  border-b-2 hover:bg-gray-200  dark:hover:bg-gray-600">
 				<input className="w-[50px]" type="checkbox" />
 				<h3 className="w-[100px]">#CM9803</h3>
 
@@ -175,7 +175,7 @@ function CreatList() {
 				</h3>
 				<h3 className="w-[200px] text-blue-800">Pending</h3>
 			</span>
-      <span className="flex items-center p-2 border-b-2">
+      <span className="flex items-center p-2 border-b-2  hover:bg-gray-200 dark:hover:bg-gray-600">
 				<input className="w-[50px]" type="checkbox" />
 				<h3 className="w-[100px]">#CM9801</h3>
 
@@ -204,7 +204,7 @@ function CreatList() {
 				<h3 className="w-[210px] text-blue-600">In Progress</h3>
 			</span>
 
-      <span className="flex items-center p-2  border-b-2">
+      <span className="flex items-center p-2  border-b-2 hover:bg-gray-200  dark:hover:bg-gray-600">
 				<input className="w-[50px]" type="checkbox" />
 				<h3 className="w-[100px]">#CM9802</h3>
 
@@ -233,7 +233,7 @@ function CreatList() {
 				<h3 className="w-[200px] text-blue-400">In Progress</h3>
 			</span>
 
-      <span className="flex items-center p-2  border-b-2">
+      <span className="flex items-center p-2  border-b-2 hover:bg-gray-200 dark:hover:bg-gray-600">
 				<input className="w-[50px]" type="checkbox" />
 				<h3 className="w-[100px]">#CM9803</h3>
 
@@ -261,7 +261,7 @@ function CreatList() {
 				</h3>
 				<h3 className="w-[200px] text-blue-800">Pending</h3>
 			</span>
-      <span className="flex items-center p-2 border-b-2">
+      <span className="flex items-center p-2 border-b-2 hover:bg-gray-200 dark:hover:bg-gray-600">
 				<input className="w-[50px]" type="checkbox" />
 				<h3 className="w-[100px]">#CM9801</h3>
 
@@ -290,7 +290,7 @@ function CreatList() {
 				<h3 className="w-[210px] text-blue-600">In Progress</h3>
 			</span>
 
-      <span className="flex items-center p-2  border-b-2">
+      <span className="flex items-center p-2  border-b-2 hover:bg-gray-200 dark:hover:bg-gray-600">
 				<input className="w-[50px]" type="checkbox" />
 				<h3 className="w-[100px]">#CM9802</h3>
 
@@ -319,7 +319,7 @@ function CreatList() {
 				<h3 className="w-[200px] text-blue-400">In Progress</h3>
 			</span>
 
-      <span className="flex items-center p-2  border-b-2">
+      <span className="flex items-center p-2  border-b-2 hover:bg-gray-200 dark:hover:bg-gray-600">
 				<input className="w-[50px]" type="checkbox" />
 				<h3 className="w-[100px]">#CM9803</h3>
 
@@ -347,7 +347,7 @@ function CreatList() {
 				</h3>
 				<h3 className="w-[200px] text-blue-800">Pending</h3>
 			</span>
-      <span className="flex items-center p-2  border-b-2">
+      <span className="flex items-center p-2  border-b-2 hover:bg-gray-200 dark:hover:bg-gray-600">
 				<input className="w-[50px]" type="checkbox" />
 				<h3 className="w-[100px]">#CM9803</h3>
 

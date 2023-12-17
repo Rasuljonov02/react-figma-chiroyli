@@ -1,10 +1,6 @@
-import React from "react";
-
 
 
 function Dashboard() {
-
-
 
 	return (
 		<div className=" flex flex-col gap-3 mt-6">
@@ -20,7 +16,7 @@ function Dashboard() {
 					>
 						<path
 							d="M7.50002 2.92969V8.55469L2.62502 11.3672C2.29959 9.61066 2.61183 7.79565 3.50554 6.24885C4.39925 4.70205 5.81572 3.52504 7.50002 2.92969Z"
-    fill="#1C1C1C"
+							fill="#1C1C1C"
 							fill-opacity="0.1"
 						/>
 						<path
@@ -136,7 +132,6 @@ function Dashboard() {
 					Online Courses
 				</p>
 			</span>
-   
 		</div>
 	);
 }
