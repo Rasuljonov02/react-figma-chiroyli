@@ -4,7 +4,7 @@ import CreatList from "./kreatlis"
 
 function Left() {
 	return (
-		<div className=" dark:text-white dark:bg-red-500  w-[100%] ">
+		<div className=" dark:text-white   w-[100%] ">
 			<Right2 />
 <CreatList />
 		</div>
