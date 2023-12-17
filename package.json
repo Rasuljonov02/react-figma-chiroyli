@@ -17,8 +17,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start ",
-   "build": "react-scripts build",
+    "sta": "react-scripts start ",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "tail": "bunx tailwind -i ./src/assets/main.css -o ./src/assets/bundle.css --watch --poll"
