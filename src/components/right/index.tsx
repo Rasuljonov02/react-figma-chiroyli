@@ -5,7 +5,7 @@ import Pages from "./pages";
 
 function Right1() {
 	return (
-		<div className="dark:text-white  w-[20%] p-3">
+		<div className="dark:text-white  w-[20%] p-3 border-r-2">
 			<div>
 			<Rightt />
 				<Dashboard />
