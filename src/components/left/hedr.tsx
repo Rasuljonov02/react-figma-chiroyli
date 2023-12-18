@@ -60,7 +60,7 @@ function Right() {
 						</svg>
 						Search
 					</p>
-					<img  id="dars" src={icon} alt="" />
+					<img  className=" cursor-pointer"   id="dars" src={icon} alt="" />
 
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
