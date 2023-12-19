@@ -1,6 +1,6 @@
 function Why() {
 	return (
-		<div className=" w-[100%]  grid items-center mt-[100px]">
+		<div className=" w-[100%]  grid items-center mt-[100px] px-[120px]">
 			<span className="  flex flex-col gap-5">
 				<h1 id="why">Why Choose Us</h1>
 				<p id="loem">
@@ -11,7 +11,7 @@ function Why() {
 
 			<div className=" flex items-center w-[100%] justify-around mt-14">
 				{/* 1 */}
-				<div id="shadov" className=" w-[350px]  p-[35px] rounded-xl " >
+				<div id="shadov" className=" w-[350px]  p-[35px] rounded-xl ">
 					<p className=" grid place-items-center w-[70px] h-[60px] rounded-xl bg-blue-950">
 						<svg
 							xmlns="http://www.w3.org/2000/svg"
@@ -37,8 +37,8 @@ function Why() {
 						incididunt ut labore et dolore magna.
 					</p>
 				</div>
-{/* 2 */}
-<div id="shadov" className=" w-[350px]  p-[35px] rounded-xl">
+				{/* 2 */}
+				<div id="shadov" className=" w-[350px]  p-[35px] rounded-xl">
 					<p className=" grid place-items-center w-[70px] h-[60px] rounded-xl bg-[#EF6010]">
 						<svg
 							xmlns="http://www.w3.org/2000/svg"

@@ -587,6 +587,18 @@ video {
   left: 130px;
 }
 
+.bottom-\[90px\] {
+  bottom: 90px;
+}
+
+.left-\[40px\] {
+  left: 40px;
+}
+
+.top-\[90px\] {
+  top: 90px;
+}
+
 .my-\[\] {
   margin-top: ;
   margin-bottom: ;
@@ -741,6 +753,22 @@ video {
   width: 152px;
 }
 
+.w-\[630px\] {
+  width: 630px;
+}
+
+.w-\[700px\] {
+  width: 700px;
+}
+
+.w-\[80px\] {
+  width: 80px;
+}
+
+.w-\[90px\] {
+  width: 90px;
+}
+
 .flex-col {
   flex-direction: column;
 }
@@ -819,6 +847,10 @@ video {
 
 .gap-\[50px\] {
   gap: 50px;
+}
+
+.gap-3 {
+  gap: 0.75rem;
 }
 
 .rounded-\[8px\] {
