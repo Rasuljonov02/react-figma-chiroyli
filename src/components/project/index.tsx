@@ -1,6 +1,5 @@
 import React from "react";
 
-import Box1 from "./box1";
 import Why from "./second-section";
 import FirstSection from "./first-section";
 import Fourth from "./fourth-section";
@@ -9,6 +8,7 @@ import Navbar from "./navbar";
 import Header from "./box1";
 import UserCount from "./users-count";
 import Footer from "./footer";
+import Fifth from "./fifth";
 
 function Project() {
 	return (
@@ -20,6 +20,7 @@ function Project() {
 			<ThirdSection />
 			<Fourth />
 			<UserCount />
+			<Fifth />
 			<Footer />
 		</div>
 	);
