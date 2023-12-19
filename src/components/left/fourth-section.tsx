@@ -4,13 +4,16 @@ import jamoa from "../../img/jamoa.png";
 import svg from "../../img/svg.png";
 function Fourth() {
 	return (
-		<div className=" grid place-items-center mt-[100px] gap-5">
-			<h1 id=" willim">What Our Customer Says</h1>
-			<p id="aa" className=" w-[630px] text-center">
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-				labore et dolore magna aliqua. Ut enim ad minim veniam.
-			</p>
-			<div className="flex items-center gap-[30px]">
+		<div className="flex flex-col mt-[100px] gap-5 px-[120px] ">
+			<div className="flex flex-col gap-[20px] items-center">
+				{" "}
+				<h1 id=" willim">What Our Customer Says</h1>
+				<p id="aa" className=" w-[630px] text-center">
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+					ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+				</p>
+			</div>
+			<div className="flex items-center justify-between">
 				{/* posishin */}
 				<div className="  w-[350px]">
 					<p className="relative w-[90px] left-[40px] top-[90px]">
