@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Odibee+Sans&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 #ziro {
 	color: #272626;
 	font-family: Odibee Sans;
@@ -9,9 +10,7 @@
 	line-height: normal;
 	letter-spacing: 1.45px;
 }
-body {
-	background-color: aliceblue;
-}
+
 #search {
 	border-radius: 50px;
 	background: #fff;
@@ -33,7 +32,7 @@ h1 {
 	font-size: 45px;
 	font-style: normal;
 	font-weight: 400;
-	line-height: 55px; /* 122.222% */
+	line-height: 55px;
 	letter-spacing: 3.15px;
 }
 #lo {
@@ -42,9 +41,10 @@ h1 {
 	font-size: 14px;
 	font-style: normal;
 	font-weight: 400;
-	line-height: 24px; /* 171.429% */
+	line-height: 24px;
 	letter-spacing: 0.28px;
 }
+
 #btn1 {
 	color: #fff;
 	text-align: center;
@@ -52,7 +52,7 @@ h1 {
 	font-size: 16px;
 	font-style: normal;
 	font-weight: 400;
-	line-height: 62px; /* 387.5% */
+	line-height: 62px;
 	letter-spacing: 0.32px;
 	border-radius: 6px;
 	background: #544cac;
@@ -65,6 +65,58 @@ h1 {
 	font-size: 16px;
 	font-style: normal;
 	font-weight: 400;
-	line-height: 62px; /* 387.5% */
+	line-height: 62px;
 	letter-spacing: 0.32px;
+}
+#why {
+	color: #353434;
+	text-align: center;
+	font-family: Oswald;
+	font-size: 40px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 50px; /* 125% */
+	letter-spacing: 2px;
+}
+
+#loem {
+	color: #a8a8a8;
+	text-align: center;
+	font-family: Open Sans;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 24px; /* 171.429% */
+	letter-spacing: 0.28px;
+}
+
+#shadov {
+	background: #fff;
+	box-shadow: -1px 1px 20px 0px rgba(70, 68, 68, 0.336);
+}
+#tr {
+	color: #323232;
+	font-family: Open Sans;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 30px; /* 150% */
+	letter-spacing: 0.4px;
+}
+#ty {
+	color: #8f8f8f;
+	font-family: Open Sans;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 22px; /* 157.143% */
+	letter-spacing: 0.28px;
+}
+#shadov {
+ cursor: pointer;
+ transition: transform 0.3s ease;
+}
+
+#shadov:hover {
+ transform: scale(1.1);
 }
