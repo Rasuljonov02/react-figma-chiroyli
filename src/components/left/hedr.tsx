@@ -33,7 +33,7 @@ function Right() {
 					</svg>
 				</p>
 				<span className=" flex items-center gap-1">
-					<a href="#">Login</a>
+					<a href="#" className=" text-teal-700">Login</a>
 					<a href="#"> / Sing Up</a>
 				</span>
 			</span>
