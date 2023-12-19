@@ -114,7 +114,7 @@ function Fifth() {
 					<button id="btn5" className="p-[8px 30px]">Purchase Now</button>
 				</div>
 
-    <div  className="flex items-center  flex-col justify-around bg-[#F9FAFF] h-[500px] w-[320px] gap-4 p-4">
+    <div  id="ser"  className="flex items-center  flex-col justify-around bg-[#F9FAFF] h-[500px] w-[320px] gap-4 p-4">
 					<h1 id="a1">PLATNIUM</h1>
 					<h2 id="a2" >$500</h2>
 					<h3  id="a3">Per Month</h3>

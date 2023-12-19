@@ -1,12 +1,12 @@
 import "./main.css";
+import Project from "./project";
 
-import Left from "./left";
-function Appkichik() {
+function Main() {
 	return (
 		<div className="  w-[100%]  ">
-			<Left />
+			<Project />
 		</div>
 	);
 }
 
-export default Appkichik;
+export default Main;

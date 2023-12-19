@@ -1,25 +1,29 @@
 import React from "react";
-import Right2 from "./hedr";
 
-import Box1 from "./box1";
+
 import Why from "./second-section";
 import FirstSection from "./first-section";
 import Fourth from "./fourth-section";
 import ThirdSection from "./third-section";
-import Fifth  from "./fifth"
-function Left() {
+import Navbar from "./navbar";
+import Header from "./box1";
+import UserCount from "./users-count";
+import Footer from "./footer";
+import Fifth from "./fifth";
+function Project() {
 	return (
 		<div className="   w-[100%] ">
-			<Right2 />
-			<Box1 />
+			<Navbar />
+			<Header />
 			<FirstSection />
 			<Why />
 			<ThirdSection />
+			<UserCount />
 			<Fourth />
-
-			<Fifth />
+			<Fifth/>
+			<Footer />
 		</div>
 	);
 }
 
-export default Left;
+export default Project;
