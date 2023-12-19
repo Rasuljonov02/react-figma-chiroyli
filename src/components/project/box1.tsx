@@ -8,7 +8,7 @@ import a24 from "../../img/24.png";
 import a25 from "../../img/25.png";
 import a26 from "../../img/26.png";
 
-function Box1() {
+function Header() {
 	return (
 		<div className="w-[100%] bg-[#F5F7FF]">
 			<div className=" flex items-center pt-[60px] justify-between px-[130px]">
@@ -55,4 +55,4 @@ function Box1() {
 	);
 }
 
-export default Box1;
+export default Header;
