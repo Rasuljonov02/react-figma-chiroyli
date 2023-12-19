@@ -1,4 +1,4 @@
-import "./main.css"
+import "./main.css";
 
 import Left from "./left";
 function Appkichik() {

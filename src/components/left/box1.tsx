@@ -25,7 +25,7 @@ function Box1() {
 						incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <br />
 						quis nostrud exercitation ullamco laboris nisi ut aliquip.
 					</p>
-					<span className=" flex items-center">
+					<span className=" flex items-center gap-[30px]">
 						<button id="btn1" className="w-[190px]">
 							Discover Now
 						</button>
@@ -40,7 +40,7 @@ function Box1() {
 					<img className="w-[550px]" src={i1} alt="" />
 				</div>
 			</div>
-			<div className=" w-[100%] flex justify-around gap-2  items-center mt-[80px]">
+			<div className=" w-[100%] flex justify-around gap-2  items-center mt-[80px] bg-white pt-[30px] px-[100px]">
 				<img src={a21} alt="" />
 
 				<img src={a22} alt="" />
