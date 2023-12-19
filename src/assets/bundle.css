@@ -937,6 +937,10 @@ video {
   padding-top: 30px;
 }
 
+.pt-\[60px\] {
+  padding-top: 60px;
+}
+
 .font-\[Oswald\] {
   font-family: Oswald;
 }

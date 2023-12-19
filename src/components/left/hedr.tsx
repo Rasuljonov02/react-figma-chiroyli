@@ -2,7 +2,7 @@ import logo from "../../img/logo.png";
 
 function Right() {
 	return (
-		<div className=" flex pt-[30px] px-[120px]">
+		<div className=" flex pt-[30px] px-[120px] bg-[#F5F7FF]">
 			<span className="flex justify-around w-[100%]  items-center gap-1">
 				<span className=" flex  items-center gap-2">
 					<img src={logo} alt="logo" />
