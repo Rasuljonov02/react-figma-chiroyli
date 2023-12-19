@@ -1,11 +1,11 @@
-import React from "react";
+import "./main.css"
 
 import Left from "./left";
-
 function Appkichik() {
 	return (
-		<div className=" dark:bg-black w-[100%] flex ">
+		<div className="  w-[100%] flex mt-2  px-11">
 			<Left />
+	
 		</div>
 	);
 }
