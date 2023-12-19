@@ -10,14 +10,14 @@ import a26 from "../../img/26.png";
 
 function Box1() {
 	return (
-		<div className="w-[100%] ">
-			<div className=" flex items-center mt-[60px] justify-between px-[130px]">
+		<div className="w-[100%] bg-[#F5F7FF]">
+			<div className=" flex items-center pt-[60px] justify-between px-[130px]">
 				<div className=" flex flex-col gap-[30px]">
 					<h1 className="  w-[480px]">
 						Find out talend
 						<p id="frelanser" className="w-[100px] flex">
 							freelance
-						</p>{" "}
+						</p>
 						with better review faster.
 					</h1>
 					<p id="lo">
