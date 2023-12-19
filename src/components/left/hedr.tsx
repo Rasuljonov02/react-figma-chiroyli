@@ -2,10 +2,9 @@ import logo from "../../img/logo.png";
 
 function Right() {
 	return (
-		<div className=" flex ">
+		<div className=" flex pt-[30px] px-[120px]">
 			<span className="flex justify-around w-[100%]  items-center gap-1">
 				<span className=" flex  items-center gap-2">
-
 					<img src={logo} alt="logo" />
 					<p id="ziro" className="">
 						ZIRO
@@ -33,7 +32,9 @@ function Right() {
 					</svg>
 				</p>
 				<span className=" flex items-center gap-1">
-					<a href="#" className=" text-teal-700">Login</a>
+					<a href="#" className=" text-teal-700">
+						Login
+					</a>
 					<a href="#"> / Sing Up</a>
 				</span>
 			</span>

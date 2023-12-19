@@ -10,9 +10,9 @@ import a26 from "../../img/26.png";
 
 function Box1() {
 	return (
-		<div className="w-[100%]">
-			<div className=" flex items-center mt-[60px] justify-between px-11">
-				<div className=" flex flex-col gap-2">
+		<div className="w-[100%] ">
+			<div className=" flex items-center mt-[60px] justify-between px-[130px]">
+				<div className=" flex flex-col gap-[30px]">
 					<h1 className="  w-[480px]">
 						Find out talend
 						<p id="frelanser" className="w-[100px] flex">
@@ -25,7 +25,7 @@ function Box1() {
 						incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <br />
 						quis nostrud exercitation ullamco laboris nisi ut aliquip.
 					</p>
-					<span className=" flex items-center">
+					<span className=" flex items-center gap-[30px]">
 						<button id="btn1" className="w-[190px]">
 							Discover Now
 						</button>
@@ -40,7 +40,7 @@ function Box1() {
 					<img className="w-[550px]" src={i1} alt="" />
 				</div>
 			</div>
-			<div className=" w-[100%] flex justify-around gap-2  items-center mt-[80px]">
+			<div className=" w-[100%] flex justify-around gap-2  items-center mt-[80px] bg-white pt-[30px] px-[100px]">
 				<img src={a21} alt="" />
 
 				<img src={a22} alt="" />
